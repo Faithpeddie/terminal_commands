@@ -51,6 +51,7 @@ Terminal is a **shell** which runs **UNIX text commands.**
 
 [^5]: *E.g.* `rm cheatsheet.md`
 
+
 ## Using Git
 | Command | Function |
 |----------|----------|
