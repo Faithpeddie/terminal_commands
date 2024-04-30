@@ -51,4 +51,21 @@ Terminal is a **shell** which runs **UNIX text commands.**
 
 [^5]: *E.g.* `rm cheatsheet.md`
 
+## Using Git
+| Command | Function |
+|----------|----------|
+| `git status` | shows the state of the repository including modifications before commiting |
+| `git commit -m " "` | creates a detailed record of the modificaions |
+|`git revert dr0934` | undo a specific commit using its ID |
+| `git log` | displays the commit history of a repository (the most recent at the top) |
+| `git reset` | undo a specific commit and every commmit thereafter |
+| `git rebase` | reverses and completely removes a series of commits |
+| `git remote` | manages (add, remove or modify) remote repositories |
+| `git push` | uploads local repository content to a remote repository |
+| `git clone` | copies a remote repository |
+| `git pull` | uploads changes from a remote repository to a local repository | 
+
+A **repository**:
+is a **location** where files are **stored and managed** through the use of **version control**, such as **Git**. 
+
 ## 🍋 Easy peasy lemon squeezy 🍋
